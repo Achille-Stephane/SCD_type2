@@ -1,0 +1,1 @@
+Le changement de dimension de type 2 exige une historisation de l'information sur l'entrée  donc la colonne a changé de valeur. Cela crée une autre entrée avec les memes valeurs partout ailleurs. le changement est marqué dans une colonne supplementaire pour faire la différence entre les deux entrées.
